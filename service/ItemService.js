@@ -257,7 +257,7 @@ class RouteController {
       await transporter.sendMail(
         {
           from: "royhiark@gmail.com", // sender address
-          to: "royhirakp@gmail.com", // list of receivers
+          to: "info@redpositive.in", // list of receivers
           subject: "Assignment for RedPositive Service OPC",
           text: `Assignment for RedPositive Service OPC`, // plain text body
           html: email_InString, // html body
