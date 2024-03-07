@@ -258,8 +258,8 @@ class RouteController {
         {
           from: "royhiark@gmail.com", // sender address
           to: "royhirakp@gmail.com", // list of receivers
-          subject: "Hotel Booking page , OTP MAIL",
-          text: ` OTP MAIL mail`, // plain text body
+          subject: "Assignment for RedPositive Service OPC",
+          text: `Assignment for RedPositive Service OPC`, // plain text body
           html: email_InString, // html body
         },
         // error insending mail
